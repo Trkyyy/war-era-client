@@ -6,6 +6,9 @@ Provides both **synchronous** and **asynchronous** clients with a method for eve
 
 ## Installation
 
+**Requires Python 3.10 or later.**
+
+
 ```bash
 pip install .
 ```
