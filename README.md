@@ -163,6 +163,8 @@ client = WarEraClient(
 )
 ```
 
+API keys can be generate via the WarEra frontend (https://app.warera.io/) by navigating to Settings > API Tokens
+
 ## License
 
 MIT
